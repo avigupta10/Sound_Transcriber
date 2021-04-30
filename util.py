@@ -1,9 +1,7 @@
 import os
 from dotenv import load_dotenv
 import requests
-import sounddevice as sd
-from scipy.io.wavfile import write
-import wave
+
 
 
 def get_url(API_TOKEN, file):
