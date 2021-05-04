@@ -1,2 +1,2 @@
 # Sound_Transcriber
-Transcribe Sound With AssemblyAI
+Transcribe Sound With AssemblyAI API
